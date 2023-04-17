@@ -52,3 +52,13 @@ Make sure also to specify Hugo version in the environment variable `HUGO_VERSION
 
 ![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
 </details>
+
+### jb comments
+
+requirements:
+- need go installed (install with e.g. winget)
+- need to restart terminal
+- run: hugo server
+- open: http://localhost:1313
+
+
