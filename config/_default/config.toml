@@ -1,9 +1,9 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://sevenam.github.io/cognitiveoverload/"
 languageCode = "en-us"
 paginate = 5
 title = "c o g n i t i v e . o v e r l o a d"
-canonifyURLs = true
+# canonifyURLs = true
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
